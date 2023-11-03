@@ -1,4 +1,4 @@
-site_name: Clash.Meta Docs
+site_name: 虚空终端 Docs
 repo_url: https://github.com/MetaCubeX/Clash.Meta
 repo_name: MetaCubeX/Clash.Meta
 copyright: Copyright &copy 2023 Clash.Meta
@@ -21,8 +21,8 @@ plugins:
       locale: zh
 theme:
   name: material
-  logo: assets/logo.webp
-  favicon: assets/logo.webp
+  logo: assets/images.jpeg
+  favicon: assets/images.jpeg
   features:
     - navigation.tracking
     - navigation.instant
